@@ -19,3 +19,4 @@
 
 * Open the terminal and run `mvn test`
 
+Obs: I have no knowledge of automated testing "RestFul" and "rest assured", I have developed what I could by searching the internet.

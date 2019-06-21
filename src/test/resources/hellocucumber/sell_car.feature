@@ -1,7 +1,7 @@
 Feature: Apply a car for sale
 
   As a customer, I want to select the type of car I want to sell,
-  so that I can receive an offer from X company.
+  so that I can receive an offer from Auto1.
 
   Scenario: Receive an offer from X company
         Given that the user has access to a list of car brands in Berlin
