@@ -1,7 +1,3 @@
-# Auto1
-
-* In this public repository you will find tests for the Auto1 challenge.
-
 # Tasks:
 
 * The software should be written java or at least in a jvm based technology. But better with java
